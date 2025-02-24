@@ -38,7 +38,7 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/Trushang-Patel/blockchain-demo.git
 ```
 
 Run the Docker setup:
