@@ -1,18 +1,8 @@
-# Blockchain Demo
-A web-based demonstration of blockchain concepts.
-
-[![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
-
-This is a very basic visual introduction to the concepts behind a blockchain. We introduce 
-the idea of an immutable ledger using an interactive web demo that is available here:
-
-http://andersbrownworth.com/blockchain/
-
 ## Setup
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/Trushang-Patel/blockchain-demo
 ```
 
 Install dependencies:
@@ -97,13 +87,3 @@ In the production bitcoin blockchain, block `458,091` has the hash digest
 `00000000000000000000011246f099d94f91628d71c9d75ad2f9a06e2beb7e92`. That's 21 zeros in a row!
 That one block would take this software approximately 8,454,989,768,407,765 years to mine.
 
-### Public Private Key Demo
-
-The 2nd part of the 101 session:
-* https://github.com/anders94/public-private-key-demo
-
-## Send Thanks
-
-![](public/images/qr.png)
-
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
